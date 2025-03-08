@@ -66,3 +66,5 @@ This tool provides secure encryption and decryption of files using the AES-256 a
 # OUTPUT
 
 <img width="770" alt="Image" src="https://github.com/user-attachments/assets/217ea2e3-2858-4c84-92e2-92ff0ab1d04a" />
+
+<img width="775" alt="Image" src="https://github.com/user-attachments/assets/0ac3a0ed-01a5-4d94-9bc8-74a51a9ae895" />
